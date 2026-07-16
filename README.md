@@ -138,7 +138,6 @@ print(me.motto())
 
 ```text
 🧱 Fullstack Development → React.js, Node.js, REST APIs, MongoDB
-📊 Data Science          → Python, Data Analysis, ML Fundamentals
 ```
 
 ## 📫 Connect with Me
